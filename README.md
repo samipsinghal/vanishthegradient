@@ -15,6 +15,13 @@ tools.py	= Debug functions
 transformers.py	= Data Transform definitions
 
 
+
+**Help Options -**
+
+python resnet.py -h
+
+
+
 **How to run**
 
 **To start training with best model configuration for 50 epochs execute the following command  :-**
