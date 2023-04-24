@@ -17,16 +17,17 @@ transformers.py	= Data Transform definitions
 
 **How to run**
 
-**To start training with best model configuration for 100 epochs execute the following command -**
+**To start training with best model configuration for 100 epochs execute the following command  :-**
 python resnet.py -e 100 -o adadelta -an -sc -mx -v -m project1_model
 
 
 
 
-**To resume training for 100 epochs from best state checkpoint**
+**To resume training for 100 epochs from best state checkpoint :-**
 python resnet.py -e 100 -o adadelta -an -sc -mx -v -m project1_model -r AA4Test
 
-**To save logs to a file in logs directory**
+
+**To save logs to a file in logs directory  :-**
 python resnet.py -e 100 -m project1_model -r AA4Test >> logs/<filename>.log
 
 Replace <filename> with your choice of filename
