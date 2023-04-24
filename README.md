@@ -7,6 +7,9 @@ Code Structure :
 
 
 models.py	 = Resnet definitions and model configuartion /n
+
 resnet.py	= main python file
+
 tools.py	= Debug functions
+
 transformers.py	= Data Transform definitions
