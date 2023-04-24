@@ -29,4 +29,4 @@ python resnet.py -e 50 -o adadelta -an -sc -mx -v -m project1_model -r AA4Test
 **To save logs to a file in logs directory  :-**
 python resnet.py -e 50 -m project1_model -r AA4Test >> logs/<filename>.log
 
-Replace <filename> with your choice of filename
+Replace <filename> with your choice of filename 
