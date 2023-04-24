@@ -37,3 +37,8 @@ python resnet.py -e 50 -o adadelta -an -sc -mx -v -m project1_model -r AA4Test
 python resnet.py -e 50 -m project1_model -r AA4Test >> logs/<filename>.log
 
 Replace <filename> with your choice of filename 
+
+
+
+<img width="993" alt="image" src="https://user-images.githubusercontent.com/27934754/234092643-9b67f2de-501a-4bb0-9749-9e0a6dfaea03.png">
+
