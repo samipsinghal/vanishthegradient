@@ -6,7 +6,7 @@ Tasked to coming up with a modified residual network (ResNet) architecture with 
 Code Structure : 
 
 
-models.py	 = Resnet definitions and model configuartion
+models.py	 = Resnet definitions and model configuartion /n
 resnet.py	= main python file
 tools.py	= Debug functions
 transformers.py	= Data Transform definitions
