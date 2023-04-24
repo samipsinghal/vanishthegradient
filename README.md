@@ -24,6 +24,9 @@ python resnet.py -h
 
 **How to run**
 
+
+First run "python resnet.py -h". This will help you identify all the missing dependencies. Once that is there in place , run the below command. Please see , GPU (CUDA) is disabled in the code which has been uploaded. To enable CUDA , we can search for CUDA in resnet.py and uncomment it. 
+
 **To start training with best model configuration for 50 epochs execute the following command  :-**
 python resnet.py -e 50 -o adadelta -an -sc -mx -v -m project1_model
 
